@@ -1,1 +1,1 @@
-from slownumget import main
+from slownumget.slownumget import get
