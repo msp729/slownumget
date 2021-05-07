@@ -9,7 +9,7 @@ requirements = [
 
 setup(
     name="slownumget",
-    version="0.1.0",
+    version="0.1.1",
     author="John Wilson",
     author_email="john4.wilson6@protonmail.ch",
     description="A package to output integers really flipping slowly.",
